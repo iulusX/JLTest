@@ -1,4 +1,4 @@
-package com.iulus.JLTest;
+package com.iulus.fate;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

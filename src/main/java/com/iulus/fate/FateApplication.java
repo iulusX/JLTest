@@ -1,13 +1,13 @@
-package com.iulus.JLTest;
+package com.iulus.fate;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JlTestApplication {
+public class FateApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JlTestApplication.class, args);
+		SpringApplication.run(FateApplication.class, args);
 	}
 
 }
